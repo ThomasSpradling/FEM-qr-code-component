@@ -17,7 +17,8 @@
 
 ### Links
 
-- Live Site URL: [demo](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://thomasspradling.github.io/FEM-qr-code-component/dist/)
+- Link to Solution: [FEM Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
 - Try it yourself: [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## My process
