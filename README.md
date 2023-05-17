@@ -18,7 +18,7 @@
 ### Links
 
 - Live Site URL: [Demo](https://thomasspradling.github.io/FEM-qr-code-component/dist/)
-- Link to Solution: [FEM Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
+- Link to Solution: [FEM Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-tailwindcss-1B6KvU-PT_)
 - Try it yourself: [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## My process
