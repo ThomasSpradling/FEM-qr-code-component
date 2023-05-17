@@ -26,4 +26,4 @@
 
 ## **What I learned**
 
-This was a good introduction to design—an area web development that I am not as good with. Going from design to CSS sometimes is challenging, and getting a handle of this has been great. I am fairly new to Tailwind, so I am trying to pick up tricks along the way with that too.
+This was a good introduction to design—an area of web development that I am not as good with. Going from design to CSS sometimes is challenging, and getting a handle of this has been great. I am fairly new to Tailwind, so I am trying to pick up tricks along the way with that too.
