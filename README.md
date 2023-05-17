@@ -4,6 +4,8 @@
     <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Try It Yourself</a>
     &nbsp;·&nbsp;
     <a href="https://thomasspradling.github.io/FEM-qr-code-component/dist/" target="_blank">View Demo</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.frontendmentor.io/solutions/qr-code-component-using-tailwindcss-1B6KvU-PT_" target="_blank">View My Solution</a>
   </p>
 </div>
 
